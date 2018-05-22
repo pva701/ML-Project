@@ -1,0 +1,5 @@
+*.pyc
+*.npz
+.idea
+.DS_Store
+runs
